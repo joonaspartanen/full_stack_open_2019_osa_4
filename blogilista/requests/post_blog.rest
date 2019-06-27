@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+  "title": "Testiblogi 2",
+  "author": "Puppe Sillankorva",
+  "url": "www.blogi.fi/koira",
+  "likes": 0
+}
