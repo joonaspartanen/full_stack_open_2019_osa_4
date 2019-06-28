@@ -115,7 +115,6 @@ describe('most blogs', () => {
   test('Robert C. Martin has 3 blogs', () => {
 
     const result = listHelper.mostBlogs(listWithSeveralBlogs)
-    console.log(result)
     expect(result.author).toEqual('Robert C. Martin')
     expect(result.blogs).toBe(3)
   })
@@ -127,7 +126,6 @@ describe('most likes', () => {
   test('Edsger W. Dijkstra has 17 likes', () => {
 
     const result = listHelper.mostLikes(listWithSeveralBlogs)
-    console.log(result)
     expect(result.author).toEqual('Edsger W. Dijkstra')
     expect(result.likes).toBe(17)
   })

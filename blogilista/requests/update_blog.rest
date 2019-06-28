@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5d147b5ec1eee13fd0436c48
+Content-Type: application/json
+
+{
+"likes": "100", 
+"title": "Uusi nimi",
+"author": "Hiiru",
+"url": "www.blogi.fi/otus"
+}
