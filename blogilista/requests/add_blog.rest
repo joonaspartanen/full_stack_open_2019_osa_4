@@ -2,8 +2,9 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-  "title": "Testiblogi 3",
+  "title": "Vielä uusi testiblogi",
   "author": "Sanna Sillankorva",
   "url": "www.blogi.fi/vaimo",
-  "likes": 0
+  "likes": 0,
+  "userId": "5d1874b54aa5873e2ce321bd" 
 }

@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFwYXJ0YW5lbiIsImlkIjoiNWQxOGM4ZmJjMjViMDkyNDVjZjlmZjljIiwiaWF0IjoxNTYxOTA3MDQ0fQ.8jVQujrb0D4khsdwhxxRH7VxC6SVyQSB8MgIIigVXh0
+
+{
+  "title": "Kolmas blogi tokeneista",
+  "author": "Nuutti Sillankorva",
+  "url": "www.blogi.fi/",
+  "likes": 0
+}
