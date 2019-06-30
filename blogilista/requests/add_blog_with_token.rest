@@ -1,9 +1,9 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFwYXJ0YW5lbiIsImlkIjoiNWQxOGM4ZmJjMjViMDkyNDVjZjlmZjljIiwiaWF0IjoxNTYxOTA3MDQ0fQ.8jVQujrb0D4khsdwhxxRH7VxC6SVyQSB8MgIIigVXh0
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJwYXJ0YW5lbiIsImlkIjoiNWQxOGQ4ZWExY2I0YTY0N2UwM2MxODgyIiwiaWF0IjoxNTYxOTA5NTE0fQ.FJ8V71dm7w5dhTTOg3meqI3EPCzSpDNlSkh-r_r30tQ
 
 {
-  "title": "Kolmas blogi tokeneista",
+  "title": "Bentin uudempi blogi tokeneista",
   "author": "Nuutti Sillankorva",
   "url": "www.blogi.fi/",
   "likes": 0
