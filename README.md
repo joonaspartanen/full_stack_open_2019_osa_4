@@ -1,1 +1,1 @@
-Fullstack Open -kurssin osan 4 kaikki tehtävät.
+Full Stack Open -kurssin osan 4 kaikki tehtävät.
